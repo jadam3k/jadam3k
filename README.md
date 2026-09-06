@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f39edc8c-bdc0-4c54-b4a8-f931efa687af" width="500" height="200" alt="banner" />
+  <img src="https://github.com/user-attachments/assets/f39edc8c-bdc0-4c54-b4a8-f931efa687af" width="600" height="300" alt="banner" />
 </div>
 
 <h1 align="center">Hi, I'm Adam Kowalczyk</h1>
